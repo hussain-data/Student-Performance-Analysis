@@ -57,6 +57,7 @@ This plot shows the comparison of mean scores in math, reading, and writing betw
 
 #### Score Distribution by Race/Ethnicity
 ![Race/Ethnicity](https://github.com/hussain-data/Student-Performance-Analysis/blob/7f9d5309c4ec710484e1f78086126cf539a08736/plotimage.png)
+
 *This visualization illustrates how test scores are distributed across different racial and ethnic groups.*
 
 ---
