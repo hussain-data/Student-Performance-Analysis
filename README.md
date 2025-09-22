@@ -2,13 +2,14 @@
 
 ![Student Performance Banner](https://i.imgur.com/7bYhA8A.png)
 
+----
+
 ## 📖 Overview
 
 This project presents an in-depth **Exploratory Data Analysis (EDA)** of the "Student Performance" dataset. The primary goal is to uncover insights into the factors that influence student scores in math, reading, and writing. By analyzing various demographic and socio-economic variables, this study aims to identify key determinants of academic success.
 
 The analysis explores relationships between variables such as **gender, race/ethnicity, parental level of education, lunch status**, and **test preparation course completion** against student performance metrics.
 
----
 
 ## 📊 Dataset
 
@@ -46,21 +47,6 @@ The exploratory data analysis involved several stages, including data cleaning, 
 * **[Finding 1]**: *Example: Female students, on average, scored higher in reading and writing, while male students performed slightly better in math.*
 * **[Finding 2]**: *Example: Students who completed the test preparation course consistently outperformed those who did not across all three subjects.*
 * **[Finding 3]**: *Example: There is a strong positive correlation between reading and writing scores, suggesting that skills in one area are highly transferable to the other.*
-
-## 📊 Visualizations
-
-Here are some of the key visualizations from the analysis that highlight the relationships in the data.
-
-#### Average Scores by Gender
-*(Insert your bar chart image here or describe it)*
-This plot shows the comparison of mean scores in math, reading, and writing between male and female students.
-
-#### Score Distribution by Race/Ethnicity
-![Race/Ethnicity](https://github.com/hussain-data/Student-Performance-Analysis/blob/7f9d5309c4ec710484e1f78086126cf539a08736/plotimage.png)
-
-*This visualization illustrates how test scores are distributed across different racial and ethnic groups.*
-
----
 
 ## 📜 License
 
