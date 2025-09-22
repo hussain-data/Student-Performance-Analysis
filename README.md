@@ -46,9 +46,6 @@ The exploratory data analysis involved several stages, including data cleaning, 
 * **[Finding 1]**: *Example: Female students, on average, scored higher in reading and writing, while male students performed slightly better in math.*
 * **[Finding 2]**: *Example: Students who completed the test preparation course consistently outperformed those who did not across all three subjects.*
 * **[Finding 3]**: *Example: There is a strong positive correlation between reading and writing scores, suggesting that skills in one area are highly transferable to the other.*
-* **[Add your own key findings here based on your notebook analysis.]**
-
----
 
 ## 📊 Visualizations
 
@@ -59,7 +56,7 @@ Here are some of the key visualizations from the analysis that highlight the rel
 This plot shows the comparison of mean scores in math, reading, and writing between male and female students.
 
 #### Score Distribution by Race/Ethnicity
-*(Insert your line plot or distribution plot image here)*
+*("C:\Users\Imran\Student Performance Analysis\plotimage.png")*
 This visualization illustrates how test scores are distributed across different racial and ethnic groups.
 
 ---
