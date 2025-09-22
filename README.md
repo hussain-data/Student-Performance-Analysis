@@ -1,6 +1,6 @@
 # Analysis of Student Performance 🎓
 
-![Student Performance Banner](https://i.imgur.com/7bYhA8A.png)
+![Student Performance Banner](https://github.com/hussain-data/Student-Performance-Analysis/blob/8dc106a2aba88ce2c843670e62e00eed7b9f243d/stdper.jpg)
 
 ----
 
