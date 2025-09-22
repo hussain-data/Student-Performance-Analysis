@@ -1,6 +1,6 @@
 # Analysis of Student Performance 🎓
 
-![Student Performance Banner](https://i.imgur.com/2O3nL0k.png)
+![Student Performance Banner](https://i.imgur.com/7bYhA8A.png)
 
 ## 📖 Overview
 
